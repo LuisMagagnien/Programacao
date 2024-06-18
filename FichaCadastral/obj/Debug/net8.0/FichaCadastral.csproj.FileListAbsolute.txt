@@ -1,0 +1,15 @@
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\bin\Debug\net8.0\FichaCadastral.exe
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\bin\Debug\net8.0\FichaCadastral.deps.json
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\bin\Debug\net8.0\FichaCadastral.runtimeconfig.json
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\bin\Debug\net8.0\FichaCadastral.dll
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\bin\Debug\net8.0\FichaCadastral.pdb
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.AssemblyInfoInputs.cache
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.AssemblyInfo.cs
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.csproj.CoreCompileInputs.cache
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.sourcelink.json
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.dll
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\refint\FichaCadastral.dll
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.pdb
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\FichaCadastral.genruntimeconfig.cache
+C:\Users\luis.magagnien\Desktop\Programcao\FichaCadastral\obj\Debug\net8.0\ref\FichaCadastral.dll
